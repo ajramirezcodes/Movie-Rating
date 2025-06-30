@@ -29,4 +29,4 @@ Movie Rater is a responsive web application that allows users to search for movi
 
 ## Live Link
 
-[View the Movie Rater Project](https://your-username.github.io/movie-rater)
+[View the Movie Rater Project](https://ajramirezcodes.github.io/Movie-Rating/)
